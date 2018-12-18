@@ -37,5 +37,9 @@ This column contains the names of institutions that have contributed datasets to
 
 ###Dataset DOI Count Column (2): 
 
-this column contains the counts of how many datasets these institutions contributed to Harvard Dataverse that were published in the year 2017. The data values of these are number values (integers), and there are no units present. There are also no known missing values; The numbers that are here are what is reported by Harvard Dataverse. 
+This column contains the counts of how many datasets these institutions contributed to Harvard Dataverse that were published in the year 2017. The data values of these are number values (integers), and there are no units present. There are also no known missing values; The numbers that are here are what is reported by Harvard Dataverse. 
+
+###Data Source Column (3):
+
+I hand coded this column, which contains just Dataverse for every entry. There are no missing values and the unit type is string.
 
