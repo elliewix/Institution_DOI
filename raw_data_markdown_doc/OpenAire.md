@@ -27,7 +27,7 @@ I collected this data by hand coding a csv file from information that is display
 
 ##Structure: 
 
-The structure of this dataset is a csv file that has 38 rows and 2 columns. As such, there are two entities, institutions and dataset contribution counts per institution. Each row represents one institution that contributed dataset(s) to OpenAire and the counts of how many datasets. There are 38 records in this file, one per each institution. The first column are text data types because they are the names of the institutions. The second column is a column of number data types (integers) because they are the number of counts of datasets contributed to OpenAire by each institution.
+The structure of this dataset is a csv file that has 38 rows and 3 columns. As such, there are two entities, institutions and dataset contribution counts per institution. Each row represents one institution that contributed dataset(s) to OpenAire and the counts of how many datasets. There are 38 records in this file, one per each institution. The first column are text data types because they are the names of the institutions. The second column is a column of number data types (integers) because they are the number of counts of datasets contributed to OpenAire by each institution.
 
 ##Description:
 
@@ -38,5 +38,9 @@ This is a column that lists every single institutional repository that contribut
 ###Dataset DOI Count Column (2):
 
 This column describes how many datasets each institution contributed to OpenAire that were published in 2017. These data values are numbers (integers), and there are no units present. There are also no missing values in this column. 
+
+###Data Source Column (3):
+
+I hand coded this column into the dataset, which is just OpenAire. There are no missing values, and the data type is string.
 
 
