@@ -72,7 +72,7 @@ The csv file that I created from my DataCite_agg.py script.
 
 I made some hand eidts of my curated_DataCite_doi csv file. I added a column next to institution codes, which was a list of institution names that corresponded to the codes. This is the data file that I used for my jupyter notebook.
 
-## DataCite_agg.py:
+##DataCite_agg.py:
 Py file to aggregate the DataCite_Doi.csv file by institution.
 
 ##grid.csv:
