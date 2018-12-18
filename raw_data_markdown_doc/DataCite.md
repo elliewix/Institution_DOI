@@ -28,7 +28,7 @@ To collect this data, I first identified the data center id's, which may be foun
 
 ##Structure: 
 
-The data is in a csv file format. There are two kinds of entities in this dataset, institution names and dataset counts for each institution. Under the first column of each row, it will give the name of the institution with a text data type and under the second column it will give a number value data type (integer) that describes how many datasets that institution has given to DataCite that were published in 2017. Since there are 425 institution this dataset, there will be 425 rows and 2 columns. 
+The data is in a csv file format. There are two kinds of entities in this dataset, institution names and dataset counts for each institution. Under the first column of each row, it will give the name of the institution with a text data type and under the second column it will give a number value data type (integer) that describes how many datasets that institution has given to DataCite that were published in 2017. Since there are 425 institution this dataset, there will be 425 rows and many columns. 
 
 
 ##Descriptions:
