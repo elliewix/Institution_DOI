@@ -1,0 +1,9 @@
+Requirements to make final data file:
+requests
+os.path
+json
+time
+os
+csv
+glob
+pandas
