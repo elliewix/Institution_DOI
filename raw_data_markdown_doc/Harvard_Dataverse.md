@@ -27,7 +27,7 @@ https://dataverse.harvard.edu/dataverse/harvard. I selected only Datasets on the
 
 ##Structure: 
 
-This file is a csv file . There are two kinds of entities in this file. There are institution names with the text data type value that represent what institutions submitted datasets in the year 2017. There are also number entities with the integer data type value that describe how many datasets from the 2017 publication year each institution contributed to Harvard Dataverse. As such, each row describes how many datasets a given institution contributed to Harvard Dataverse in 2017. Since there are 100 institutions in this dataset, there are 100 rows and two columns (100 records). 
+This file is a csv file . There are two kinds of entities in this file. There are institution names with the text data type value that represent what institutions submitted datasets in the year 2017. There are also number entities with the integer data type value that describe how many datasets from the 2017 publication year each institution contributed to Harvard Dataverse. As such, each row describes how many datasets a given institution contributed to Harvard Dataverse in 2017. Since there are 100 institutions in this dataset, there are 100 rows and three columns (100 records). 
 
 ##Descriptions:
 
